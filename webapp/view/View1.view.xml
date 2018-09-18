@@ -3,7 +3,11 @@
 	<App id="idAppControl">
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<content>
+					<VBox class="sapUiSmallMarginBegin sapUiSmallMarginTopBottom">
+						<Text text="Test 010"/>
+					</VBox>
+				</content>
 			</Page>
 		</pages>
 	</App>
