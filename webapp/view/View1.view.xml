@@ -7,6 +7,7 @@
 					<VBox class="sapUiSmallMarginBegin sapUiSmallMarginTopBottom">
 						<Text text="Test 010"/>
 						<Text text="Test 020"/>
+						<Text text="Test 030"/>
 					</VBox>
 				</content>
 			</Page>
